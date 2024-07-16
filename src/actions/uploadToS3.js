@@ -5,8 +5,8 @@ window.Buffer = window.Buffer || require("buffer").Buffer
 
 // const S3_BUCKET ='changecx-skill-app';
 // const REGION ='us-east-1';
-// const ACCESS_KEY ='AKIAVDKJGNE3TNSYGUOP';
-// const SECRET_ACCESS_KEY ='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';
+// const ACCESS_KEY ='';
+// const SECRET_ACCESS_KEY ='';
 // const URL_EXPIRATION_TIME = 60;
 
 // AWS.config.update({
